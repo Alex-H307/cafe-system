@@ -1,5 +1,5 @@
 # cafe-system
-A small theoretical system used for a cafe.
+A small theoretical system used for a computer cafe.
 
 Programming Language used: Python 3.10.2 
 Modules used: re 
