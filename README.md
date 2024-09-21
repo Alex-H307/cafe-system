@@ -10,12 +10,12 @@ Text files: db.txt, db_backup.txt
 
 Instructions: Open the main.py file, and log in with one of these accounts ->
 
- POSITION           USERNAME      PASSWORD
+ POSITION,           USERNAME,      PASSWORD
  
- Manager             bob123        joe321      
+ Manager,             bob123 ,       joe321      
  
- Maintenance         nikolas       Password
+ Maintenance,         nikolas,       Password
 
- Counter Attendant   worn1987      jworn
+ Counter Attendant,   worn1987,      jworn
  
- Repairman           jonjon        pass
+ Repairman,           jonjon,        pass
